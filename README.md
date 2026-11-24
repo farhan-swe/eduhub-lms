@@ -47,7 +47,7 @@ Before you begin, ensure you have the following installed:
 Clone the Repository:
 
 ```
-git clone https://github.com/khdxsohee/eduhub-lms.git
+git clone https://github.com/farhan-swe/eduhub-lms.git
 ```
 
 ```
@@ -224,4 +224,4 @@ This project is open-source and available under the MIT License.
 ### Support
 If you encounter any issues or have questions, please open an issue on the GitHub Issues page.
 
-Made with ❤️ by khdxsohee
+Made with ❤️ by farhan-swe
